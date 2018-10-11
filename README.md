@@ -22,7 +22,7 @@ this lab, you'll be:
 
 Your application should use the following file structure. Notice how there are
 separate controllers for songs, artists, and genres. Separately, we have
-sub-directories for views for songs, artists, and genres.
+sub-directories for views for songs, artists, and genres. 
 
 ```
 ├── app
